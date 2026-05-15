@@ -1,6 +1,6 @@
 # Racetrack: SARSA vs Q-Learning
 
-**Group 16** | [Report](report.md) 
+**Group 16** | [Report](report/report.md) 
 
 Investigates whether the performance gap between SARSA and Q-Learning widens as the Racetrack environment grows more complex.
 
