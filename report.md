@@ -320,7 +320,7 @@ This divergence is driven by SARSA’s tendency to translate exploration risk in
 
 Q-Learning’s optimistic bootstrap preserves a reliable value gradient regardless of track complexity, allowing it to maintain:
 
-$$> 89 \%  $$
+$$> 89 %  $$
 
 finish rates even on the most demanding layouts.
 
