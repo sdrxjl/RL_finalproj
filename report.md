@@ -318,11 +318,7 @@ In complex environments:
 
 This divergence is driven by SARSA’s tendency to translate exploration risk into excessive conservatism and oscillatory behavior.
 
-Q-Learning’s optimistic bootstrap preserves a reliable value gradient regardless of track complexity, allowing it to maintain:
-
-$$> 89 %  $$
-
-finish rates even on the most demanding layouts.
+Q-Learning’s optimistic bootstrap preserves a reliable value gradient regardless of track complexity, allowing it to maintain **above 89%** finish rates even on the most demanding layouts.
 
 The practical implication is clear:
 
